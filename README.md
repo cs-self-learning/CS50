@@ -4,6 +4,7 @@
 
 [Week 0 Scratch](./week0/)  
 [Week 1 C](./week1/)  
+[Week 2 Arrays](./week2/)  
 
 ## Lab  
 
