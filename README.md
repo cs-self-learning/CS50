@@ -5,6 +5,12 @@
 [Week 0 Scratch](./week0/)  
 [Week 1 C](./week1/)  
 [Week 2 Arrays](./week2/)  
+[Week 3 Algorithms](./week3/)  
+
+## Labs  
+
+[Lab 1 Population](./labs/population/)  
+[Lab 2 Scrabble](./labs/scrabble)
 
 ## Lab  
 
